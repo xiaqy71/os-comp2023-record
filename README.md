@@ -9,3 +9,7 @@ This repo recorded my OS studies
 ### day2 4/2
 rust圣经进度：2.4.5数组  
 枚举有点难度
+
+### day3 4/3
+rust圣经进度：2.6.1match 和 if let  
+很多题还是做不了
